@@ -1,8 +1,8 @@
-# Snell 一键安装脚本
+# Snell 一键安装脚本(请按系统版本用不同的脚本)
 ## Snell：debian/centos/ubuntu等
 
 ```
-wget -O snell.sh --no-check-certificate https://git.io/Snell.sh && chmod +x snell.sh && ./snell.sh
+wget -O snell.sh --no-check-certificate https://raw.githubusercontent.com/jyucoeng/Snell/main/Snell.sh && chmod +x snell.sh && ./snell.sh
 ```
 
 ## Alpine系统：
