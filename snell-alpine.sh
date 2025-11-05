@@ -195,7 +195,7 @@ open_port() {
 # 这个命令本质上是一个包装器，每次执行时都会从 GitHub 下载并运行最新的脚本
 create_management_script() {
     echo -e "${CYAN}正在创建 'snell' 管理命令...${RESET}"
-    local SCRIPT_URL="https://raw.githubusercontent.com/jyucoeng/Snell/main/snell-alpine.sh"
+    local SCRIPT_URL="https://raw.githubusercontent.com/jyucoeng/Snell/refs/heads/main/snell-alpine.sh"
     
     # 使用 cat 和 heredoc 创建脚本文件
     cat > /usr/local/bin/snell << EOF
