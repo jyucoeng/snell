@@ -15,7 +15,7 @@ WHITE='\033[0;37m'  # 白色，用于特定文本
 RESET='\033[0m'     # 重置颜色
 
 # 脚本自身的版本号
-current_version="2.0"
+current_version="2.1"
 
 # 用于存储 Snell 的版本号 (硬编码为 v3.0.0)
 SNELL_VERSION=""
