@@ -470,8 +470,8 @@ show_menu() {
     echo -e "${CYAN}============================================${RESET}"
     echo -e "${CYAN}        Snell for Alpine 管理脚本 v${current_version}${RESET}"
     echo -e "${CYAN}============================================${RESET}"
-    echo -e "${GREEN}作者：myouhi${RESET}"
-    echo -e "${GREEN}仓库：https://github.com/myouhi/Snell${RESET}"
+    echo -e "${GREEN}作者：LittleDoraemon${RESET}"
+    echo -e "${GREEN}仓库：https://github.com/jyucoeng/Snell${RESET}"
     echo -e "${CYAN}============================================${RESET}"
 
     # 检查服务状态并显示
