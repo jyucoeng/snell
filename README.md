@@ -11,4 +11,5 @@ bash <(curl -sSL https://raw.githubusercontent.com/jyucoeng/Snell/main/snell-alp
 ```
 
 
-## 卸载脚本：再次运行你刚才执行的脚本，里面菜单有卸载选项
+## 卸载脚本：
+### 再次运行你刚才执行的脚本，里面菜单有卸载选项
